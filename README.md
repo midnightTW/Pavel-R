@@ -16,4 +16,4 @@ NDA соблюдается, документы не содержат конфи�
 BPMN · UML · Системный анализ · ERD · SQL · REST API · Agile · Postman · Интеграции · Jira · Confluence
 
 [LinkedIn](https://linkedin.com/in/username) 
-[Telegram][(https://t.me/MidNight26RUS)]
+[Telegram](https://t.me/MidNight26RUS)
